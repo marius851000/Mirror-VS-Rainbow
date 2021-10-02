@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfdia.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfdia0000" x="0" y="0" width="408" height="412" frameY="-135" frameX="-300" frameWidth="408" frameHeight="412"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rddia.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rddia0000" x="0" y="0" width="518" height="490" frameY="-65" frameX="300" frameWidth="518" frameHeight="490"/>
+</TextureAtlas>
